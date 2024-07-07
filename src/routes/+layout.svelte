@@ -39,7 +39,6 @@ onMount(() => {
 	const navs = data.global
 
 	const contacts = data.contacts
-	console.log(contacts)
 
 
 

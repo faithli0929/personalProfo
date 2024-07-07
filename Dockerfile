@@ -11,6 +11,6 @@ RUN npm install && npm cache clean --force
 
 COPY . .
 
-EXPOSE 5173
+EXPOSE 3000
 
 CMD ["npm", "run", "host"]
